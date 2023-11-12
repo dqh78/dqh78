@@ -23,7 +23,7 @@
         "@fortawesome/free-solid-svg-icons": "^5.15.1",
         "@fortawesome/react-fontawesome": "^0.1.13",
         "autoprefixer": "^10.0.3",
-        "axios": "^0.21.0",
+        "axios": "^1.6.0",
         "bootstrap": "^4.5.3",
         "eslint": "^7.14.0",
         "eslint-config-airbnb": "^18.2.1",
